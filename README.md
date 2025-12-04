@@ -12,7 +12,7 @@ A clean and minimal calculator web application with Java-style logic implementat
 
 ## Demo
 
-🔗 [Live Demo](https://itzz-guru.github.io/calculator/)
+🔗 [Live Demo](https://itzz-guru.github.io/Calculator/)
 
 
 ## Technologies Used
