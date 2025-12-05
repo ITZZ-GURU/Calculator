@@ -87,6 +87,10 @@ The calculator uses Java-style programming concepts:
 
 ITZZ-GURU - [GitHub Profile](https://github.com/ITZZ-GURU)
 
+## Contribution
+
+madhusagarrebelwood - [GitHub Profile](https://github.com/madhusagarrebelwood)
+
 ## License
 
 This project is open source and available for educational purposes.
